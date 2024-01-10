@@ -1,4 +1,4 @@
-# [Name of the Project]
+# CrazyKart
 [Description: Describe your project briefly. What you aim to accomplish, what materials you are using,...]
 
 ## Mentor Notes
